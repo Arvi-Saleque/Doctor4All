@@ -1,0 +1,599 @@
+/* ------------- Start: Display type ------------- */
+.dc-display-inline
+.dc-display-block
+.dc-display-inline-block
+.dc-display-table
+.dc-display-table-row
+.dc-display-table-cell
+.dc-display-flex
+
+/* ------------- Start: 05 - Padding style ------------- */
+.dc-pad-top-90
+.dc-pad-top-70{
+.dc-pad-top-60
+.dc-pad-top-50
+.dc-pad-top-30
+.dc-pad-top-20
+.dc-pad-top-15
+.dc-pad-top-10
+
+.dc-pad-bottom-90
+.dc-pad-bottom-70
+.dc-pad-bottom-60
+.dc-pad-bottom-50
+.dc-pad-bottom-30
+.dc-pad-bottom-20
+.dc-pad-top-15
+.dc-pad-top-10
+ 
+/* ------------- End: 06 - Margin style ------------- */ 
+.dc-marg-top-90
+.dc-marg-top-70
+.dc-marg-top-60
+.dc-marg-top-50
+.dc-marg-top-30
+.dc-marg-top-20
+.dc-marg-top-15
+.dc-marg-top-10
+
+.dc-marg-bottom-90
+.dc-marg-bottom-70
+.dc-marg-bottom-60
+.dc-marg-bottom-50
+.dc-marg-bottom-30
+.dc-marg-bottom-20
+.dc-marg-top-15
+.dc-marg-top-10
+/* ------------- End: 06 - margin style ------------- */
+ 
+ /* ------------- Start: 07 - Font Size ------------- */
+.dc-font-9
+.dc-font-10
+.dc-font-11
+.dc-font-12
+.dc-font-13
+.dc-font-14
+.dc-font-15
+.dc-font-16
+.dc-font-17
+.dc-font-18
+.dc-font-19
+.dc-font-20
+.dc-font-22
+.dc-font-24
+.dc-font-26
+.dc-font-28
+.dc-font-30
+.dc-font-32
+.dc-font-36
+.dc-font-42
+.dc-font-48
+.dc-font-60
+.dc-font-64
+.dc-font-70
+.dc-font-80
+.dc-font-90
+.dc-font-100
+
+ /* ------------- Start: 08 - Font Strength ------------- */
+ .dc-font-weight-300
+.dc-font-weight-400
+.dc-font-weight-700
+.dc-font-weight-900
+
+/* ------------- Start: 09 - Lineheight ------------- */
+.dc-line-height-0
+.dc-line-height-0-8
+.dc-line-height-1
+.dc-line-height-1-2
+.dc-line-height-1-3 
+.dc-line-height-1-5
+.dc-line-height-2
+
+ /* ------------- Start: 10 - Divider ------------- */
+.dc-divider-10
+.dc-divider-15
+.dc-divider-20
+.dc-divider-30
+.dc-divider-40
+.dc-divider-50
+.dc-divider-60
+.dc-divider-70
+.dc-divider-80
+.dc-divider-90
+.dc-divider-100
+.dc-divider-110
+.dc-divider-120
+
+/* ------------- Start: 11 - Border style ------------- */
+.dc-border-solid-1
+.dc-border-solid-2
+.dc-border-solid-3
+.dc-border-solid-4
+.dc-border-solid-5
+
+.dc-border-double-4
+.dc-border-double-5
+.dc-border-double-7
+.dc-border-double-8
+.dc-border-double-9
+
+.dc-border-left
+.dc-border-right
+.dc-border-top
+.dc-border-bottom
+.dc-border-hor
+.dc-border-vert
+.dc-border-topleft
+.dc-border-topright
+.dc-border-bottomleft
+.dc-border-bottomright
+
+.dc-border-solid-before-1:before
+.dc-border-solid-before-2:before
+.dc-border-solid-before-3:before
+.dc-border-solid-before-4:before
+.dc-border-solid-before-5:before
+.dc-border-solid-after-1:after
+.dc-border-solid-after-2:after
+.dc-border-solid-after-3:after
+.dc-border-solid-after-4:after
+.dc-border-solid-after-5:after
+
+.dc-border-double-before-4:before
+.dc-border-double-before-5:before
+.dc-border-double-before-7:before
+.dc-border-double-before-8:before
+.dc-border-double-before-9:before
+.dc-border-double-after-4:after
+.dc-border-double-after-5:after
+.dc-border-double-after-7:after
+.dc-border-double-after-8:after
+.dc-border-double-after-9:after
+.dc-border-left-before:before
+.dc-border-right-before:before
+.dc-border-top-before:before
+.dc-border-bottom-before:before
+.dc-border-hor-before:before
+.dc-border-vert-before:before
+.dc-border-topleft-before:before
+.dc-border-topright-before:before
+.dc-border-bottomleft-before:before
+.dc-border-bottomright-before:before
+.dc-border-left-after:after
+.dc-border-right-after:after
+.dc-border-top-after:after
+.dc-border-bottom-after:after
+.dc-border-hor-after:after
+.dc-border-vert-after:after
+.dc-border-topleft-after:after
+.dc-border-topright-after:after
+.dc-border-bottomleft-after:after
+.dc-border-bottomright-after:after
+.dc-border-blue
+.dc-border-lightblue
+.dc-border-green
+.dc-border-lightgreen
+.dc-border-red
+.dc-border-lightred
+.dc-border-yellow
+.dc-border-fadeyellow
+.dc-border-pink
+.dc-border-cyan
+.dc-border-orange
+.dc-border-tan
+.dc-border-purple
+.dc-border-bluepurple
+.dc-border-white
+.dc-border-xdarkgrey
+.dc-border-darkgrey
+.dc-border-grey
+.dc-border-lightgrey
+.dc-border-xlightgrey
+.dc-border-blue-before
+.dc-border-lightblue-before:before
+.dc-border-green-before:before
+.dc-border-lightgreen-before:before
+.dc-border-red-before:before
+.dc-border-lightred-before:before
+.dc-border-yellow-before:before
+.dc-border-fadeyellow-before:before
+.dc-border-pink-before:before
+.dc-border-cyan-before:before
+.dc-border-orange-before:before
+.dc-border-tan-before:before
+.dc-border-purple-before:before
+.dc-border-bluepurple-before:before
+.dc-border-white-before:before
+.dc-border-xdarkgrey-before:before
+.dc-border-darkgrey-before:before
+.dc-border-grey-before:before
+.dc-border-lightgrey-before:before
+.dc-border-xlightgrey-before:before
+.dc-border-blue-after:after
+.dc-border-lightblue-after:after
+.dc-border-green-after:after
+.dc-border-lightgreen-after:after
+.dc-border-red-after:after
+.dc-border-lightred-after:after
+.dc-border-yellow-after:after
+.dc-border-fadeyellow-after:after
+.dc-border-pink-after:after
+.dc-border-cyan-after:after
+.dc-border-orange-after:after
+.dc-border-tan-after:after
+.dc-border-purple-after:after
+.dc-border-bluepurple-after:after
+.dc-border-white-after:after
+.dc-border-xdarkgrey-after:after
+.dc-border-darkgrey-after:after
+.dc-border-grey-after:after
+.dc-border-lightgrey-after:after
+.dc-border-xlightgrey-after:after
+.dc-border-blue-before-after:after
+.dc-border-blue-before-after:before
+.dc-border-lightblue-before-after:after
+.dc-border-lightblue-before-after:before
+.dc-border-green-before-after:after
+.dc-border-green-before-after:before
+.dc-border-lightgreen-before-after:after
+.dc-border-lightgreen-before-after:before
+.dc-border-red-before-after:after
+.dc-border-red-before-after:before
+.dc-border-lightred-before-after:after
+.dc-border-lightred-before-after:before
+.dc-border-yellow-before-after:after
+.dc-border-yellow-before-after:before
+.dc-border-fadeyellow-before-after:after
+.dc-border-fadeyellow-before-after:before
+.dc-border-pink-before-after:after
+.dc-border-pink-before-after:before
+.dc-border-cyan-before-after:after
+.dc-border-cyan-before-after:before
+.dc-border-orange-before-after:after
+.dc-border-orange-before-after:before
+.dc-border-tan-before-after:after
+.dc-border-tan-before-after:before
+.dc-border-purple-before-after:after
+.dc-border-purple-before-after:before
+.dc-border-bluepurple-before-after:after
+.dc-border-bluepurple-before-after:before
+.dc-border-white-before-after:after
+.dc-border-white-before-after:before
+.dc-border-xdarkgrey-before-after:after
+.dc-border-xdarkgrey-before-after:before
+.dc-border-darkgrey-before-after:after
+.dc-border-darkgrey-before-after:before
+.dc-border-grey-before-after:after
+.dc-border-grey-before-after:before
+.dc-border-lightgrey-before-after:after
+.dc-border-lightgrey-before-after:before
+.dc-border-xlightgrey-before-after:after
+.dc-border-xlightgrey-before-after:before
+
+/* ------------- Start: 12 - Text color ------------- */
+.dc-text-blue
+.dc-text-green
+.dc-text-red
+.dc-text-yellow
+.dc-text-cyan
+.dc-text-orange
+.dc-text-tan
+.dc-text-black
+
+
+/* ------------- start: 13 - Solid background color ------------- */
+.dc-bg-blue
+.dc-bg-lightblue
+.dc-bg-green
+.dc-bg-lightgreen
+.dc-bg-red
+.dc-bg-lightred
+.dc-bg-yellow
+.dc-bg-fadeyellow
+.dc-bg-pink
+.dc-bg-cyan
+.dc-bg-orange
+.dc-bg-tan
+.dc-bg-purple
+.dc-bg-bluepurple
+.dc-bg-white
+.dc-bg-black
+.dc-bg-xdarkgrey
+.dc-bg-darkgreyc-bg-grey
+.dc-bg-lightgrey
+.dc-bg-xlightgrey
+
+/* ------------- Start: 14 - transparent background color ------------- */
+.dc-bg-blue-tr-3
+.dc-bg-blue-tr-6
+.dc-bg-blue-tr-8
+.dc-bg-lightblue-tr-3
+.dc-bg-lightblue-tr-6
+.dc-bg-lightblue-tr-8
+.dc-bg-green-tr-3
+.dc-bg-green-tr-6
+.dc-bg-green-tr-8 
+.dc-bg-lightgreen-tr-3
+.dc-bg-lightgreen-tr-6
+.dc-bg-lightgreen-tr-8
+.dc-bg-red-tr-3 
+.dc-bg-red-tr-6 
+.dc-bg-red-tr-8 
+.dc-bg-lightred-tr-3 
+.dc-bg-lightred-tr-6 
+.dc-bg-lightred-tr-8 
+.dc-bg-yellow-tr-3
+.dc-bg-yellow-tr-6
+.dc-bg-yellow-tr-8 
+.dc-bg-fadeyellow-tr-3
+.dc-bg-fadeyellow-tr-6
+.dc-bg-fadeyellow-tr-8
+.dc-bg-pink-tr-3
+.dc-bg-pink-tr-6
+.dc-bg-pink-tr-8
+.dc-bg-cyan-tr-3
+.dc-bg-cyan-tr-6
+.dc-bg-cyan-tr-8
+.dc-bg-orange-tr-3 
+.dc-bg-orange-tr-6 
+.dc-bg-orange-tr-8 
+.dc-bg-tan-tr-3
+.dc-bg-tan-tr-6
+.dc-bg-tan-tr-8
+.dc-bg-purple-tr-3
+.dc-bg-purple-tr-6
+.dc-bg-purple-tr-8
+.dc-bg-bluepurple-tr-3
+.dc-bg-bluepurple-tr-6
+.dc-bg-bluepurple-tr-8
+.dc-bg-white-tr-3
+.dc-bg-white-tr-6
+.dc-bg-white-tr-8
+.dc-bg-black-tr-3
+.dc-bg-black-tr-6
+.dc-bg-black-tr-8
+
+
+/* ------------- Start: 15 - Button ------------- */
+/* ------------- Start: 15.01 - Primary btn style ------------- */
+
+.dc-btn, .dc-btn-lg, .dc-btn-sm, .dc-btn-xs, .dc-btn-xl, .dc-btn-rnd, .dc-btn-lg-rnd, .dc-btn-sm-rnd, .dc-btn-xs-rnd, .dc-btn-xl-rnd
+
+.dc-btn-full
+
+.dc-btn-slide-down
+.dc-btn-slide-up
+.dc-btn-slide-right
+.dc-btn-slide-left
+.dc-btn-slide-hor
+.dc-btn-slide-vert
+.dc-btn-slide-box
+
+.dc-btn-gr-blue
+.dc-btn-gr-lightblue
+.dc-btn-gr-green
+.dc-btn-gr-lightgreen
+.dc-btn-gr-red
+.dc-btn-gr-lightred
+.dc-btn-gr-purple
+.dc-btn-gr-bluepurple
+.dc-btn-gr-yellow
+.dc-btn-gr-fadeyellow
+.dc-btn-gr-pink
+.dc-btn-gr-orange
+.dc-btn-gr-cyan
+.dc-btn-gr-tan
+.dc-btn-gr-black
+.dc-btn-gr-white
+
+
+.dc-btn-fl-blue
+.dc-btn-fl-lightblue
+.dc-btn-fl-green
+.dc-btn-fl-lightgreen
+.dc-btn-fl-red
+.dc-btn-fl-lightred
+.dc-btn-fl-yellow
+.dc-btn-fl-fadeyellow
+.dc-btn-fl-pink
+.dc-btn-fl-cyan
+.dc-btn-fl-tan
+.dc-btn-fl-purple
+.dc-btn-fl-bluepurple
+.dc-btn-fl-orange
+.dc-btn-fl-black
+.dc-btn-fl-white
+
+.dc-btn-tr-blue
+.dc-btn-tr-lightblue
+.dc-btn-tr-green
+.dc-btn-tr-lightgreen
+.dc-btn-tr-red
+.dc-btn-tr-lightred
+.dc-btn-tr-yellow}
+.dc-btn-tr-fadeyellow
+.dc-btn-tr-pink
+.dc-btn-tr-cyan
+.dc-btn-tr-tan
+.dc-btn-tr-purple
+.dc-btn-tr-bluepurple
+.dc-btn-tr-orange
+.dc-btn-tr-black
+.dc-btn-tr-white
+
+/* ------------- Start: 16 - All Default Color ------------- */
+.dc-border-default, .dc-border-default-before, .dc-border-default-after
+.dc-border-invers-default, .dc-border-invers-default-before, .dc-border-invers-default-after
+.dc-text-default
+.dc-text-inverse-default
+.dc-bg-default
+.dc-bg-inverse-default
+.dc-bg-default-tr-3
+.dc-bg-default-tr-6
+.dc-bg-default-tr-8
+.dc-bg-inverse-default-tr-3
+.dc-bg-inverse-default-tr-6
+.dc-bg-inverse-default-tr-8
+.dc-btn-gr-default
+.dc-btn-fl-default
+.dc-btn-tr-default
+.dc-btn-gr-inverse-default
+.dc-btn-tr-inverse-default
+
+.dc-nav
+#dc-fixed-nav
+.dc-nav-ul
+.dc-mb-text
+.dc-mb-icon-box
+.dc-nav.dc-nav-middle
+.dc-mg-container
+.dc-nav-trans.dc-nav
+.dc-nav-toggle-full.dc-nav
+.dc-mb-menu
+
+/* ------------- Start: 18 - Animate on scroll ------------- */
+.animateOnScroll
+.dc-visible
+
+/* ------------- Start: 19 - Custom Border ------------- */
+    /* ------------- Start: 19.01 - Font border ------------- */
+    .dc-font-border-l, .dc-font-border-m, .dc-font-border-s
+    .dc-border-lines
+    .dc-font-border-icon
+
+    /* ------------- Start: 19.02 - Parallel Border ------------- */
+    .dc-bdr-edge-parallel
+    /* ------------- Start: 19.03 - Parallel Fixed Border ------------- */
+    .dc-bdr-edge-parallel-fixed
+    /* ------------- Start: 19.04 - TopLeft-BottomRight Border ------------- */
+    .dc-bdr-edge-topleft-bottomright
+    /* ------------- Start: 19.05 - TopRight-BottomLeft Border ------------- */
+    .dc-bdr-edge-topright-bottomleft
+
+/* ------------- Start: 20 - Title text styles ------------- */
+.dc-title-btmbdr-center, .dc-title-btmbdr-left, .dc-title-btmbdr-right, .dc-title-sidebdr-left,  .dc-title-sidebdr-right
+
+/* ------------- Start: 21 - Big Heading and icon Section ------------- */
+/* ------------- Start: 21.01 - Heading Box ------------- */
+.dc-heading-box-title
+.dc-heading-left
+.dc-heading-right
+.dc-heading-text
+.dc-icon-top-box
+.dc-content-icon
+/*Start: 21.03 - Icon Left Box*/
+.dc-icon-left-box
+.dc-content-text
+/*Start: Feature Box*/
+.dc-feature-box
+.dc-feature-title
+.dc-feature-icon
+.dc-feature-head
+.dc-feature-text
+
+/* ------------- Start: 22 - List checkmark ------------- */
+.dc-list-check, .dc-list-thumb, .dc-list-star, .dc-list-arrow
+/* ------------- End: List checkmark ------------- */
+
+/* ------------- Start: 23 - Portfolio and lightbox ------------- */
+/* ------------- start: 23.01 - portfolio ------------- */
+.dc-pfbtn-grp 
+.dc-pfbtn
+.dc-pf-full 
+.dc-pfitem
+.dc-pf-info
+.dc-pf-link
+.pf-elem-cnt
+.pf-elem-ftr
+.read-more
+/* ------------- start: 23.02 - Lightbox ------------- */
+.dc-lbimg-frm
+.dc-lbcont
+/* ------------- start: 23.03 - border-parallel hover effect ------------- */
+.dc-bdr-parallel
+.dc-bdr-topleft-bottomright
+.dc-bdr-topright-bottomleft
+
+/* ------------- Start: 24 - testimonial ------------- */
+.testimonial
+.item
+.tstm-single
+.testimonial-1
+.testimonial-2
+.testimonial-3
+.testimonial-4
+.dc-tstm-box
+.dc-tstm-box-1
+.dc-tstm-box-2
+.dc-tstm-box-3
+.dc-tstm_content
+.dc-tstm-client
+.dc-tstm-person
+.dc-tstm-info
+.dc-tstm-name
+.dc-tstm-box .rating
+.dc-tstm-box-single
+/* start: testimonials style 4 */
+/* start: dc tab */
+.dc-nav-tab
+.dc-tab-content
+.testimonial-4
+/*-------------- Start: 25 - Header and Footer sections------------ */
+.dc-topbar, .dc-topbar-default
+/*-------------- Start: 25.01 - Language------------ */
+.dc-lang, .dc-lang-default
+.dc-lang li, .dc-lang-default
+/*-------------- Start: 25.02 - User------------ */
+.dc-user, .dc-user-default
+/*-------------- Start: 25.03 - Social Media ------------ */
+.dc-social, .dc-social-default
+/*-------------- Start: 25.04 - Footer ------------ */
+.dc-footer, .dc-footer-default, .dc-footer-inverse
+.dc-footer .dc-widget
+.dc-footer-top
+.dc-footer-bottom
+.dc-copyright
+/*-------------- Start: 25.05 - Footer Gallery ------------ */
+.dc-widget .dc-gallery
+.dc-contact-icon
+/*-------------- Start: 25.06 - Footer Subscribe ------------ */
+.dc-widget input
+/* ------------- Start: 26 - Data Table ------------- */
+.dc-table .dc-table-span
+.dc-resp-tab-border
+.dc-resp-tab-color
+.dc-table-line
+.dc-table-check
+.dc-table-col
+.dc-table-head
+/* ------------- Start: 27 - Pricing Table ------------- */
+.dc-price-table
+.dc-price-table-head-1
+.dc-pr-tb-hd-part-1
+.dc-pr-tb-hd-part-2
+.dc-pr-tb-hd-part-3
+.dc-price
+.dc-price-icon
+.dc-price-table-body-1, .dc-price-table-default-body-1, .dc-price-table-inverse-body-1
+.dc-price-list-icon
+.dc-price-table-foot-1, .dc-price-table-inverse-foot-1
+/* ------------- Start: 28 - Circular Counter ------------- */
+.dc-circle-counter
+.dc-circle-back
+.dc-circle-front-1, .dc-circle-front-2
+.dc-circle-counter-text
+
+/* ------------- start: 29 - ScrollToTop ------------- */
+.scrollToTop
+/* ------------- start: 30 - Accordion ------------- */
+.dc-accordion .dc-acc-body
+.dc-accord-trans .dc-acc-box
+.dc-accord-trans .dc-acc-head
+
+/* 16) Start: Contact Section Style */
+.dc-contact
+.dc-contact-input
+.dc-contact-submit
+.dc-contact label
+.dc-contact-chkbox
